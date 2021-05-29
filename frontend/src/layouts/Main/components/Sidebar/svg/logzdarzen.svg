@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <clipPath id="clip-_15_log_zdarzen">
+      <rect width="15" height="15"/>
+    </clipPath>
+  </defs>
+  <g id="_15_log_zdarzen" data-name="15 log zdarzen" clip-path="url(#clip-_15_log_zdarzen)">
+    <g id="history">
+      <g id="Group_525" data-name="Group 525">
+        <g id="Group_524" data-name="Group 524">
+          <path id="Path_370" data-name="Path 370" d="M7.5,0a.439.439,0,0,0,0,.879,6.7,6.7,0,1,1-4.6,1.9v.763a.439.439,0,1,0,.878,0V1.787a.439.439,0,0,0-.439-.439H1.567a.438.438,0,1,0,0,.876h.645A7.47,7.47,0,1,0,7.5,0Z" fill="#2f2f37"/>
+        </g>
+      </g>
+      <g id="Group_527" data-name="Group 527" transform="translate(2.666 2.666)">
+        <g id="Group_526" data-name="Group 526">
+          <path id="Path_371" data-name="Path 371" d="M95.834,91a4.834,4.834,0,1,0,4.834,4.834A4.84,4.84,0,0,0,95.834,91Zm3.089,7.3-.292-.292a.439.439,0,0,0-.621.621l.292.292a3.937,3.937,0,0,1-2.028.842V99.35a.439.439,0,0,0-.879,0v.415a3.937,3.937,0,0,1-2.028-.842l.292-.292a.439.439,0,0,0-.621-.621l-.292.292a3.936,3.936,0,0,1-.842-2.028h.415a.439.439,0,0,0,0-.879H91.9a3.937,3.937,0,0,1,.842-2.028l.292.292a.439.439,0,0,0,.621-.621l-.292-.292a3.937,3.937,0,0,1,2.028-.842v.415a.439.439,0,0,0,.879,0V91.9a3.937,3.937,0,0,1,2.028.842l-.292.292a.439.439,0,0,0,.621.621l.292-.292a3.936,3.936,0,0,1,.842,2.028H99.35a.438.438,0,1,0,0,.876h.415A3.946,3.946,0,0,1,98.923,98.3Z" transform="translate(-91 -91)" fill="#2f2f37"/>
+        </g>
+      </g>
+      <g id="Group_529" data-name="Group 529" transform="translate(7.061 5.303)">
+        <g id="Group_528" data-name="Group 528">
+          <path id="Path_372" data-name="Path 372" d="M242.629,183.765l-.75-.75v-1.576a.439.439,0,0,0-.879,0V183.2a.44.44,0,0,0,.129.311l.879.879a.439.439,0,0,0,.621-.621Z" transform="translate(-241 -181)" fill="#2f2f37"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

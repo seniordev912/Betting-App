@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <clipPath id="clip-_11_lista_ork">
+      <rect width="15" height="15"/>
+    </clipPath>
+  </defs>
+  <g id="_11_lista_ork" data-name="11 lista ork" clip-path="url(#clip-_11_lista_ork)">
+    <g id="home_3_" data-name="home (3)" transform="translate(-0.208)">
+      <g id="Group_1510" data-name="Group 1510" transform="translate(0.208 0)">
+        <path id="Path_996" data-name="Path 996" d="M15.044,7.121,13.974,6.05,8.08.157a.536.536,0,0,0-.758,0L1.43,6.05.358,7.121a.536.536,0,0,0,.758.758l.156-.158v6.743A.536.536,0,0,0,1.808,15H13.594a.536.536,0,0,0,.536-.536V7.721l.157.157a.536.536,0,0,0,.758-.758ZM9.308,13.928H6.094V9.642H9.308Zm3.75,0H10.38V9.107a.536.536,0,0,0-.536-.536H5.558a.536.536,0,0,0-.536.536v4.822H2.344V6.65L7.7,1.292,13.058,6.65Z" transform="translate(-0.208 0)" fill="#2f2f37"/>
+      </g>
+    </g>
+  </g>
+</svg>

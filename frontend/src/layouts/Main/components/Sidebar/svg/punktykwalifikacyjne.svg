@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="15" viewBox="0 0 13 15">
+  <defs>
+    <clipPath id="clip-_3_punkty_kwalifikacyjne">
+      <rect width="13" height="15"/>
+    </clipPath>
+  </defs>
+  <g id="_3_punkty_kwalifikacyjne" data-name="3 punkty kwalifikacyjne" clip-path="url(#clip-_3_punkty_kwalifikacyjne)">
+    <g id="place" transform="translate(-48.454)">
+      <g id="Group_1382" data-name="Group 1382" transform="translate(48.886)">
+        <g id="Group_1381" data-name="Group 1381">
+          <path id="Path_951" data-name="Path 951" d="M59.933,2.608a6.056,6.056,0,0,0-9.958,0,6.057,6.057,0,0,0-.705,5.581,4.77,4.77,0,0,0,.879,1.452l4.406,5.175a.524.524,0,0,0,.8,0l4.4-5.173a4.775,4.775,0,0,0,.879-1.45A6.059,6.059,0,0,0,59.933,2.608Zm-.278,5.217a3.741,3.741,0,0,1-.692,1.133l0,0-4.006,4.706L50.945,8.958a3.743,3.743,0,0,1-.693-1.137A5.011,5.011,0,0,1,50.838,3.2a5.007,5.007,0,0,1,8.232,0A5.011,5.011,0,0,1,59.654,7.825Z" transform="translate(-48.886)" fill="#2f2f37"/>
+        </g>
+      </g>
+      <g id="Group_1384" data-name="Group 1384" transform="translate(52.017 3.112)">
+        <g id="Group_1383" data-name="Group 1383">
+          <path id="Path_952" data-name="Path 952" d="M158.691,106.219a2.937,2.937,0,1,0,2.937,2.937A2.94,2.94,0,0,0,158.691,106.219Zm0,4.825a1.888,1.888,0,1,1,1.888-1.888A1.89,1.89,0,0,1,158.691,111.044Z" transform="translate(-155.754 -106.219)" fill="#2f2f37"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
